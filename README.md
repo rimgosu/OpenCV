@@ -1,9 +1,7 @@
+![image](https://github.com/rimgosu/OpenCV/assets/120752098/a99fdaa7-4283-45b4-a50d-a5f6d76cf15a)
+
+
 # OpenCV
-
-![image](https://github.com/rimgosu/OpenCV/assets/120752098/f43a2e4c-de5b-465b-b91e-1f883ed1f37e)
-
-
-
 
 ### 10월 11일
 - https://learnopencv.com/ : 프로젝트에 활용하기 좋은 다양한 코드 제공
