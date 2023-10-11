@@ -1,4 +1,4 @@
-![image](https://github.com/rimgosu/OpenCV/assets/120752098/a99fdaa7-4283-45b4-a50d-a5f6d76cf15a)
+![image](https://github.com/rimgosu/OpenCV/assets/120752098/aab33cb3-03a9-461b-b9eb-beb0c36dc3b8)
 
 
 # OpenCV
