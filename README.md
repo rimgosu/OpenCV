@@ -10,7 +10,33 @@
 
 
 
+### 10월 13일
+
+![image](https://github.com/rimgosu/OpenCV/assets/120752098/499562d3-5355-4eeb-bd6f-b4b68dda5dee)
+
+#### Anaconda Prompt 환경설정
+1. opencv 용 환경 설정
+```
+conda create -n opencv python=3.8
+```
+- conda create : 환경 만들겠다
+- -n : opencv = opencv 이름의 환경을 만들겠다
+- python : python 3.8 버전으로 환경 만들겠다
+
+2. 만든 환경에 접속
+- 기존 환경 : (base)
+
+![image](https://github.com/rimgosu/OpenCV/assets/120752098/fde1bdcc-ec72-4ecc-b51f-1db5b005f9de)
+
+- 새로운 환경 : (opencv)
+```
+activate opencv
+```
+
+3. 라이브러리 설치
+```
+pip install numpy pandas matplotlib scikit-learn opencv-python mediapipe jupyter
+```
 
 
-
-
+4. 
