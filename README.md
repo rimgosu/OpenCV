@@ -39,4 +39,11 @@ pip install numpy pandas matplotlib scikit-learn opencv-python mediapipe jupyter
 ```
 
 
-4. 
+4. jupyter notebook 접속
+```
+jupyter notebook
+```
+
+5. 다음 경로에서 가상환경이 설치된 것을 볼 수 있다
+
+![image](https://github.com/rimgosu/OpenCV/assets/120752098/07c0274d-e091-465e-ab63-d75f2a28d206)
