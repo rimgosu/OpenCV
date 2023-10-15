@@ -25,9 +25,6 @@ conda create -n opencv python=3.8
 
 2. 만든 환경에 접속
 - 기존 환경 : (base)
-
-![image](https://github.com/rimgosu/OpenCV/assets/120752098/fde1bdcc-ec72-4ecc-b51f-1db5b005f9de)
-
 - 새로운 환경 : (opencv)
 ```
 activate opencv
