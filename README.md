@@ -30,6 +30,11 @@ conda create -n opencv python=3.8
 activate opencv
 ```
 
+```
+(base) c:\Users\newny> activate opencv
+(opencv) c:\Users\newny>
+```
+
 3. 라이브러리 설치
 ```
 pip install numpy pandas matplotlib scikit-learn opencv-python mediapipe jupyter
