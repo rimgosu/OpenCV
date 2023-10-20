@@ -10,7 +10,7 @@
 
 
 
-### 10월 13일
+### 10월 13일 
 
 ![image](https://github.com/rimgosu/OpenCV/assets/120752098/499562d3-5355-4eeb-bd6f-b4b68dda5dee)
 
