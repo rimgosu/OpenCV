@@ -49,3 +49,26 @@ jupyter notebook
 5. 다음 경로에서 가상환경이 설치된 것을 볼 수 있다
 
 ![image](https://github.com/rimgosu/OpenCV/assets/120752098/07c0274d-e091-465e-ab63-d75f2a28d206)
+
+
+
+### 10월 23일
+
+> OPENCV_006_템플릿매칭.ipynb, OPENCV_007_이미지합성하기.ipynb
+
+- 만들어진 환경 확인하기
+
+```
+conda env list
+```
+```
+(base) C:\Users\newny>conda env list
+# conda environments:
+#
+base                  *  C:\ProgramData\anaconda3
+opencv                   C:\Users\newny\.conda\envs\opencv
+```
+
+
+
+
