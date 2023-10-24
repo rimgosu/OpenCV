@@ -70,5 +70,29 @@ opencv                   C:\Users\newny\.conda\envs\opencv
 ```
 
 
+### 10월 24일 - 미디어파이프
+
+![image](https://github.com/rimgosu/OpenCV/assets/120752098/1872f016-9a05-44b2-ba71-4dfb4b1b4a8e)
+
+- [미디어파이프 공식 홈페이지](https://developers.google.com/mediapipe)
+- [Face landmark detection guide](https://developers.google.com/mediapipe/solutions/vision/face_landmarker#get_started)
+- 실습 mediapipe Version: 0.10.7
+
+- 미디어 파이프 설치
+
+```
+pip install mediapipe
+```
+
+- 미디어파이프 불러오기
+
+```
+import mediapipe as mp
+```
+
+
+
+
+
 
 
