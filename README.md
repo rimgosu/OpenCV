@@ -74,6 +74,7 @@ opencv                   C:\Users\newny\.conda\envs\opencv
 
 ### 10월 24일 - 미디어파이프
 
+#### 미디어파이프 - 얼굴 합성1
 > OPENCV_008_Mediapipe.ipynb
 
 ![image](https://github.com/rimgosu/OpenCV/assets/120752098/1872f016-9a05-44b2-ba71-4dfb4b1b4a8e)
@@ -95,6 +96,13 @@ import mediapipe as mp
 ```
 
 
+
+#### 미디어파이프 - 가위바위보
+
+![image](https://github.com/rimgosu/OpenCV/assets/120752098/12e447e7-d869-4164-bb94-f0fc85cdfbaf)
+
+> OPENCV_009_Mediapipe_Hand.ipynb
+- <https://developers.google.com/mediapipe/solutions/vision/hand_landmarker#get_started>
 
 
 
