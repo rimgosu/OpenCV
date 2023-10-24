@@ -54,7 +54,9 @@ jupyter notebook
 
 ### 10월 23일
 
-> OPENCV_006_템플릿매칭.ipynb, OPENCV_007_이미지합성하기.ipynb
+> OPENCV_006_템플릿매칭.ipynb
+
+> OPENCV_007_이미지합성하기.ipynb
 
 - 만들어진 환경 확인하기
 
@@ -71,6 +73,8 @@ opencv                   C:\Users\newny\.conda\envs\opencv
 
 
 ### 10월 24일 - 미디어파이프
+
+> OPENCV_008_Mediapipe.ipynb
 
 ![image](https://github.com/rimgosu/OpenCV/assets/120752098/1872f016-9a05-44b2-ba71-4dfb4b1b4a8e)
 
