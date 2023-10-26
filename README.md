@@ -123,3 +123,39 @@ import mediapipe as mp
 | 입력 이미지 크기         | 고정된 크기 가능                    | 다양한 크기 가능                          |
 | 사용 사례               | 실시간 객체 탐지, 임베디드 시스템  | 고품질 객체 탐지, 연구                   |
 
+
+
+#### yolo - anaconda 설정
+1. git 설치
+
+```
+pip install git-python
+conda install git
+```
+
+2. yolov5 설치
+
+```
+git clone https://github.com/ultralytics/yolov5
+```
+
+3. yolov5 경로로 들어가기
+
+```
+(opencv) C:\Users\newny>cd yolov5
+(opencv) C:\Users\newny\yolov5>
+```
+
+4. yolov5 requirements.txt 설치
+
+```
+pip install -r requirements.txt
+```
+
+
+
+
+
+
+
+
