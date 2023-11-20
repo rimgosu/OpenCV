@@ -1,6 +1,6 @@
 ![image](https://github.com/rimgosu/OpenCV/assets/120752098/aab33cb3-03a9-461b-b9eb-beb0c36dc3b8)
 
-
+ 
 # OpenCV
 
 ### 10월 11일
